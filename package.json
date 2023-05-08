@@ -1,0 +1,24 @@
+{
+  "name": "nft_with_royalty",
+  "version": "1.0.0",
+  "description": "RareSkills Week 2 Project. An NFT with a royalty using ERC2981 and ERC721A",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bmullzz/NFT_With_Royalty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bmullzz/NFT_With_Royalty/issues"
+  },
+  "homepage": "https://github.com/Bmullzz/NFT_With_Royalty#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.2",
+    "hardhat": "^2.14.0"
+  }
+}
